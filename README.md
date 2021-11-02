@@ -1,9 +1,10 @@
 # Roman0210.github.io
-<!--DOCTYPE html-->
+<!DOCTYPE html>
 <html>
   <head>
     <title> Роман </title>
     <meta charset="utf-8">
+
     <link rel="stylesheet" href="CSS.css" />
 </head>
 <body>
