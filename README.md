@@ -37,9 +37,7 @@
   <li><a href="index2.html">Улюблені книги</a></li>
   <li><a href="index3.html">Навички</a></li>
   <li><a href="index4.html">Контактна інформація</a></li>
-</h3></ul>
-
+</ul></h3>
 <hr size="3">
-
   </body>
 </html>
