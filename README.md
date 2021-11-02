@@ -1,5 +1,5 @@
 # Roman0210.github.io
-<!DOCTYPE html>
+
 <html>
   <head>
     <title> Роман </title>
@@ -12,7 +12,7 @@
   <thead>
     <tr>
       <td>
-        <p><img src="1.jpg" ></p>
+        <img src="1.jpg" >
       </td>
       <th>
         <h1> Пожалов Роман <br> Сергійович </h1>
