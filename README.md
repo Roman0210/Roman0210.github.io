@@ -1,10 +1,10 @@
 # Roman0210.github.io
 <!DOCTYPE html>
+
 <html>
   <head>
     <title> Роман </title>
     <meta charset="utf-8">
-
     <link rel="stylesheet" href="CSS.css" />
 </head>
 <body>
@@ -12,7 +12,7 @@
   <thead>
     <tr>
       <td>
-        <img src="1.jpg" >
+        <p><img src="1.jpg" ></p>
       </td>
       <th>
         <h1> Пожалов Роман <br> Сергійович </h1>
