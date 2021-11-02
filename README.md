@@ -4,22 +4,24 @@
   <head>
     <title> Роман </title>
     <meta charset="utf-8">
-  </head>
-  <body>
 
+    <link rel="stylesheet" href="CSS.css" />
+</head>
+<body>
 <table>
   <thead>
     <tr>
       <td>
-        <p><img src="1.jpg" width="160"></p>
+        <p><img src="1.jpg" ></p>
       </td>
-      <td>
-        <h1>Пожалов Роман Сергійович</h1>
-      </td>
+      <th>
+        <h1> Пожалов Роман <br> Сергійович </h1>
+      </th>
     </tr>
   </thead>
 </table>
-<h4>Привіт! Мене звати Роман.
+<h2>Привіт! Мене звати Роман.</h2>
+<h3>
 <ul>
 <li>Я народився в <a href="https://uk.wikipedia.org/wiki/Біла_Церква"> Білій Церкві </a></li>
 <li>Навчався в <a href="https://school.i18.pp.ua">БЗШ№18</a> та <a href="https://statelic.kiev.ua">БНВО"Ліцей МАН"</a></li>
@@ -27,15 +29,15 @@
 <li>За щасливим збігом обставин проживаю в 3 гуртожитку </li>
 <li>Мій день народження 15 жовтня</li>
 </ul>
-</h4>
+</h3>
 <hr size="3">
-<h3>Про мене</h3>
-<h4><ul>
+<h2>Про мене</h2>
+<h3><ul>
   <li><a href="index1.html">Хобі</a></li>
   <li><a href="index2.html">Улюблені книги</a></li>
   <li><a href="index3.html">Навички</a></li>
   <li><a href="index4.html">Контактна інформація</a></li>
-</h4></ul>
+</h3></ul>
 
 <hr size="3">
 
