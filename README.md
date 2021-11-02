@@ -1,5 +1,5 @@
 # Roman0210.github.io
-
+<!DOCTYPE html>
 <html>
   <head>
     <title> Роман </title>
